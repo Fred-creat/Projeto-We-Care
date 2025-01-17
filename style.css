@@ -1,0 +1,104 @@
+    * {
+        font-family: montserrat; 
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+
+    header {
+
+        margin: 44px 0 144px 76px;
+
+
+    }
+
+    .link-reader {
+        font-weight: 600px;
+        font-size: 24px;
+        line-height: 29px;
+        color: #989898;
+        cursor: pointer;
+        margin-right: 23px;
+
+    }
+
+
+    .button1 {
+        font-weight: 600px;
+        background-color: rgb(0, 119, 255);
+        border-radius: 20.5px;
+        height: 41px;
+        width: 120px;
+        border: none;
+        font-size: 20px;
+        color: white;
+        cursor: pointer;
+
+
+
+    }
+
+    .img-log {
+        width: 568px;
+        height: 500px;
+        margin-left: 125px;
+        display: inline-block;
+        cursor: pointer;
+
+    }
+
+.sec {
+
+        display: inline-block;
+        cursor: pointer;
+        margin-left: 86px;
+
+    }
+
+    h1 {
+        font-weight: 900;
+        font-size: 80px;
+        line-height: 122px;
+        color: dimgray;
+        margin-bottom: 30px;
+
+    }
+
+    h2 {
+        font-weight: 900;
+        font-size: 80px;
+        line-height: 122px;
+        color: dimgray;
+        margin-top: -70px
+    }
+
+    p {
+        width: 515px;
+        color: dimgray;
+        font-size: 24px;
+        line-height: 29px;
+        margin-left: 10px;
+        margin-top: -20px;
+    }
+
+    .button2 {
+        width: 200px;
+        height: 40px;
+        border: none;
+        border-width: 70px;
+        cursor: pointer;
+        font-size: 20px;
+        line-height: 20px;
+        background-color: green;
+        margin-bottom: 20px;
+    }
+
+    .button2:active {
+        height: 35px;
+    }
+
+    .margin {
+
+        margin-bottom: 200px;
+    }
